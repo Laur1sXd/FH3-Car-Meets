@@ -1,0 +1,26 @@
+Car Meets v1.0.0 — Installation
+
+Requirements
+- Azimuth with Xbox One FH3 build 1.0.125.0.
+- FH3 Mod Platform already installed beside azimuth.exe.
+
+Install
+1. Close Azimuth.
+2. Extract the install ZIP into the folder containing azimuth.exe.
+   The DLL must be at fh3-mods/CarMeets.dll.
+3. If upgrading, remove CarMeetLocations.dll and CarMeetLocations.dat from
+   fh3-mods so only the new CarMeets.dll is loaded.
+4. Launch FH3. The eight added Car Meets use blue P markers on the world map.
+
+The DLL contains its own data. No installer, Python or separate DAT file is
+needed. The original Airfield Car Meet keeps its normal progression gate.
+All meets, including Airfield, hold the free-roam time and sky you enter with;
+the clock resumes when you leave. Night entry stays night.
+
+Uninstall
+Close Azimuth and remove fh3-mods/CarMeets.dll.
+
+
+In-game MODS name: Car Meets. Version: 1.0.0.
+Native update checks: https://github.com/Laur1sXd/FH3-Car-Meets/releases/latest
+The platform can show up to date after a successful check of a published release.
